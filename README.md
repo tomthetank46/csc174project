@@ -72,5 +72,5 @@ The website focuses on the discussion of different novels about the human condit
 ## Choreography
 1. Homepage (index page)
 2. Novel
-2. High-street fashion
-2. Designer house
+3. High-street fashion
+4. Designer house
