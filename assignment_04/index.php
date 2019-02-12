@@ -7,7 +7,7 @@ include "inc/html-top.inc";?>
 
 	<?php include "inc/nav.inc"; ?>
 
-
+ 
 	<main>
 
 		<section class="excerpt">
