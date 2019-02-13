@@ -1,8 +1,7 @@
 # Assignment 4
 
 ## Domain
-The website focuses on the discussion of different novels about the human condition, high-street fashion and the families that created some major companies, and the history of designer houses and how they have changed over time to meet people's needs.
-
+This website discusses fashion and the differnt forms that it can take. From the different types of footwear to high-street fashion, and where fashion begins, the designer houses. 
 ## Ontology
 ### Overall Website
 - Each webpage has a focus on things related to people 
@@ -12,56 +11,30 @@ The website focuses on the discussion of different novels about the human condit
 ### Individual Page
 - Each topic has an introduction
 - Each topic has a brief history
-- Each topic has features
 
 ## Taxonomy 
 ### Index
-- Top category is about the webpage as a whole
-	- h1 tag for the title
-	- nav bar for navigation
-	- footer
+- h1 tag for "Fashion Facts"
+	- nav bar is "Home, Shoes, High-Street Fashion, Designer House"
 
-	- Second category is of the topics
-		- H2 tag is the name of a webpage
+	- H2 tag is the name of a webpage
 		- List of subtopics
 		- Description for topic
 
-### Novel
-- Top category is about the webpage as a whole
-	- h1 tag for the title
-	- nav bar for navigation
-	- footer
+	- footer is "© CSC 174: Advanced Front-end Web Design and Development"
 
-	- Second category is of the novels
-		- List of general introduction
-		- Plot summary
-		- Writing background
-		- Adaptations
+### Individual Pages
+- h1 tags for "Fashion Facts"
+	- nav bar is "Home, Shoes, High-Street Fashion, Designer House"
 
-### High-street fashion
-- Top category is about the webpage as a whole
-	- h1 tag for the title
-	- nav bar for navigation
-	- footer
-
-	- Second category is of the companies
+	- h2 tag is the name of the subtopic
 		- Introduction
 		- Brief History
-		- List of Features
 
-### Designer House
-- Top category is about the webpage as a whole
-	- h1 tag for the title
-	- nav bar for navigation
-	- footer
-
-	- Second category is of the Designer houses
-		- Brief history
-		- List of Creative Directors
-		- 21st Century
+	- footer is "© CSC 174: Advanced Front-end Web Design and Development"
 
 ## Choreography
 1. Homepage (index page)
-2. Novel
+2. Shoes
 3. High-street fashion
 4. Designer house
