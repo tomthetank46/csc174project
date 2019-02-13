@@ -9,19 +9,10 @@ The website focuses on the discussion of different novels about the human condit
 ### Index
 - Each webpage has a list of topics
 - Each webpage has a creative description
-### Novel
-- Each novel has an introduction list
-- Each novel has a plot summary
-- Each novel has a writing background
-- Each novel has adaptations
-### High-Street Fashion
-- Each company has an introduction
-- Each company has a brief history
-- Each company has features
-### Designer House
-- Each designer house has a brief history
-- Each designer house has a creative director
-- Each designer house has a 21st Century discussion
+### Individual Page
+- Each topic has an introduction
+- Each topic has a brief history
+- Each topic has features
 
 ## Taxonomy 
 ### Index
