@@ -1,7 +1,7 @@
 # Assignment 4
 
 ## Domain
-This website teaches the user about fashion and the different forms that it can take: from the different types of footwear to high-street fashion, and ultimately where fashion begins, the designer houses. 
+The domain of the website is fashion. Each webpage covers a different aspect of fashion: shoes, high-street fashion, and designer houses.
 
 ## Ontology
 ### Overall Website
