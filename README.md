@@ -1,7 +1,8 @@
 # Assignment 4
 
 ## Domain
-This website discusses fashion and the differnt forms that it can take. From the different types of footwear to high-street fashion, and where fashion begins, the designer houses. 
+This website teaches the user about fashion and the different forms that it can take: from the different types of footwear to high-street fashion, and ultimately where fashion begins, the designer houses. 
+
 ## Ontology
 ### Overall Website
 - Each webpage has a focus on things related to people 
