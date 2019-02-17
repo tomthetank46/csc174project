@@ -5,7 +5,6 @@
 	<title><?php echo $currentPage; ?>Fashion Facts | Assignment 4: Information Architecture | Team Atlantis</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/navigation.css">
-    <link rel="stylesheet" href="css/footer.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
 

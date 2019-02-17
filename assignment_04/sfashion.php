@@ -2,13 +2,12 @@
 $currentPage="High-Street Fashion | ";
 include "inc/html-top.inc";?>
 
-		<body class = "container">
+		
 
 	
 		<h2>High-Street Fashion</h2>
 		<article>
 			<h3>Everlane</h3>
-
 				<div class = "grid">
 					<div>
 
@@ -17,7 +16,6 @@ include "inc/html-top.inc";?>
 				</div>
 
 				<div>
-
 				<h4>Brief History</h4>
 					<p>Everlane was founded in 2010 by Michael Preysman and Jesse Farmer as an online menswear retailer. By 2015 the company had received $1.1 million in seed funding. Everlane started with a referral invite list that gained 60,000 subscribers in 5 days although the company only had 1,500 T-shirts in inventory. In 2012, Everlane opened a pop-up shop in New York for two weeks during the holidays.</p>
 				</div>

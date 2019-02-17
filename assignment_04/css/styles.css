@@ -10,7 +10,6 @@
 	margin-top: 15px;
 	padding: 20px;
 	border:solid white 1px;
-
 }
 
 .grid{
@@ -21,23 +20,22 @@
 div a {
 	text-decoration: none;
 	color: #949599;
-
 }
 
 p{
-
 	line-height:1.5em;
 	font-size:15px;
 	padding: 10px;
 	font-family: "EB Garamond", serif;
 }
+
 main p{
 	border:dashed white 1px;
 }
+
 header a, text a, nav a{
     text-decoration: none;
     color: #949599;
-
 }
 
 header a, text a{
@@ -51,6 +49,7 @@ h1{
     text-decoration: none;
 	color: #000000;
 }
+
 h2{
 	font-weight: bold;
 	font-family: "Oswald", serif;
@@ -62,6 +61,7 @@ h3{
 	font-family: "Oswald", serif;
 	color: #65b6b0;
 }
+
 h4{
 	font-family: "Oswald", serif;
 	color: #97cfcc;
@@ -81,6 +81,7 @@ ul{
 	list-style-type: circle;
 	padding:20px;
 }
+
 th, td {
 	border: 1px solid black;
 	text-align: center;

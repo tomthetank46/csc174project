@@ -1,9 +1,9 @@
 <?php $currentPage="";
 include "inc/html-top.inc";?>
 			
-			<body class = "container">
 
-			<section class="excerpt">
+
+		<section class="excerpt">
 			<div class="text">
 				<h2 class = "fix"><a href="shoes.php">Fashionable Shoes</a></h2>
 

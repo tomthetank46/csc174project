@@ -2,7 +2,7 @@
 $currentPage="Shoes | ";
 include "inc/html-top.inc";?>
 
-		<body class = "container">
+	
 
 
 		<h2>Fashionable Shoes</h2>
