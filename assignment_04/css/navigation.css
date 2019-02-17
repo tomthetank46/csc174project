@@ -20,6 +20,10 @@ nav a {
 	text-decoration: none;
 }
 
+nav a:visited{
+	text-decoration: none;
+}
+
 nav a:hover {
 	color: grey;
 	font-size:120%;
@@ -29,5 +33,5 @@ nav a:hover {
 .is-current {
 	color: black;
 	text-shadow: 1px 1px 1px grey;
-	background-color: white;
+	background-color: #97cfcc;
 }

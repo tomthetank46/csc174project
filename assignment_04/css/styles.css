@@ -3,38 +3,80 @@
 	width: 95%;
 	max-width: 960px;
 }
-header {
-	margin-left: 20px;
-    font-style:italic;
-    font-weight: bold;
+
+.excerpt {
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	margin-top: 15px;
+	padding: 20px;
+	border:solid white 1px;
+
 }
+
+.grid{
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+div a {
+	text-decoration: none;
+	color: #949599;
+
+}
+
 p{
 
 	line-height:1.5em;
 	font-size:15px;
 	padding: 10px;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "EB Garamond", serif;
 }
 main p{
 	border:dashed white 1px;
 }
-h1{
-	font-size:40px;
-}
-h2{
-	font-size:25px;
-	font-style: italic;
-	background-color: black;
-	color:white;
-}
-h3{
-	font-size: 20px;
+header a, text a, nav a{
+    text-decoration: none;
+    color: #949599;
+
 }
 
-sub{
-	font-size:15px;
+header a, text a{
+    display: block;
+    position: relative;
 }
+
+h1{
+	font-family: "Oswald", serif;
+    font-weight: bold;
+    text-decoration: none;
+	color: #000000;
+}
+h2{
+	font-weight: bold;
+	font-family: "Oswald", serif;
+	color: #949599;
+}
+h3{
+	border-top: 3px solid #65b6b0;
+	border-bottom: 3px solid #65b6b0;
+	font-family: "Oswald", serif;
+	color: #65b6b0;
+}
+h4{
+	font-family: "Oswald", serif;
+	color: #97cfcc;
+}
+
+footer{
+	text-align: right;
+	font-family: "EB Garamond", serif;
+	border:black 5px;
+	margin-bottom:10px;
+	padding-top: 30px;
+}
+
 ul{
+	font-family: "EB Garamond", serif;
 	margin:10px;
 	list-style-type: circle;
 	padding:20px;
@@ -42,4 +84,8 @@ ul{
 th, td {
 	border: 1px solid black;
 	text-align: center;
+}
+
+a:visited {
+  text-decoration: none;
 }
