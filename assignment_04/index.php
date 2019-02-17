@@ -1,11 +1,11 @@
 <?php $currentPage="";
 include "inc/html-top.inc";?>
+			
+			<body class = "container">
 
-
-
-		<section class="excerpt">
+			<section class="excerpt">
 			<div class="text">
-				<h2><a href="shoes.php">Fashionable Shoes</a></h2>
+				<h2 class = "fix"><a href="shoes.php">Fashionable Shoes</a></h2>
 
 				<ul>
 					<li>Sneakers</li>
@@ -23,7 +23,7 @@ include "inc/html-top.inc";?>
 		<section class="excerpt">
 			<div class="text">
 
-				<h2><a href="sfashion.php">High-Street Fashion</a></h2>
+				<h2 class = "fix"><a href="sfashion.php">High-Street Fashion</a></h2>
 
 				<ul>
 					<li>Everlane</li>
@@ -40,7 +40,7 @@ include "inc/html-top.inc";?>
 
 		<section class="excerpt">
 			<div class="text">
-				<h2><a href="designerhouse.php">Designer House</a></h2>
+				<h2 class = "fix"><a href="designerhouse.php">Designer House</a></h2>
 
 				<ul>
 					<li>Louis Vuitton</li>
