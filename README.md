@@ -1,41 +1,17 @@
-# Assignment 4
+# In-Class Assignment 6
 
-## Domain
-The domain of the website is fashion. Each webpage covers a different aspect of fashion: shoes, high-street fashion, and designer houses.
+## Colors:
+	Colors were editied to a dark background with gray body text, orange titles and lavender accents. This would allow the text to contrast with the background, and the titles to contrast with the body and highlights.
 
-## Ontology
-### Overall Website
-- Each webpage has a focus on things related to people 
-### Index
-- Each webpage has a list of topics
-- Each webpage has a creative description
-### Individual Page
-- Each topic has an introduction
-- Each topic has a brief history
+## Layout:
+	Each section has an introduction part on the left and a larger history section on the right. Titles are sandwiched between two lines and left alligned.
 
-## Taxonomy 
-### Index
-- h1 tag for "Fashion Facts"
-	- nav bar is "Home, Shoes, High-Street Fashion, Designer House"
+	Borders around body paragraphs were removed to allow for all text to be left alligned, alligning them with the titles and each other.
 
-	- H2 tag is the name of a webpage
-		- List of subtopics
-		- Description for topic
+	Sections are also positioned close in proximity to each other.
 
-	- footer is "© CSC 174: Advanced Front-end Web Design and Development"
+## Typefaces:
+	New typefaces were chosen for h1 and h2, and for the rest of the page. The h1 and h2s appear larger, so a unique Monterey font was chosen to stand out while maintaining readability. Lato was used for much of the body, as it's rounded edges make it appear neat and friendly while also making it readable in a large amount of text.
 
-### Individual Pages
-- h1 tags for "Fashion Facts"
-	- nav bar is "Home, Shoes, High-Street Fashion, Designer House"
-
-	- h2 tag is the name of the subtopic
-		- Introduction
-		- Brief History
-
-	- footer is "© CSC 174: Advanced Front-end Web Design and Development"
-
-## Choreography
-1. Homepage (index page)
-2. Shoes
-3. High-street fashion
-4. Designer house
+## Other:
+	Intro and brief history sections were too close together without borders, so spacing was added.

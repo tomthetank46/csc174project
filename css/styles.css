@@ -1,0 +1,120 @@
+.container{
+	margin: 0 auto;
+	width: 95%;
+	max-width: 960px;
+	background-color: #2b2b2b;
+}
+
+.excerpt {
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	margin-top: 15px;
+	padding: 20px;
+	border:solid white 1px;
+}
+
+.grid{
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 20px;
+}
+
+div a {
+	text-decoration: none;
+	color: #a993ff;
+}
+
+p{
+	line-height:1.5em;
+	font-size:15px;
+	/*padding: 10px;*/
+	font-family: "Lato-Regular";
+}
+
+main p{
+	/*border:dashed 1px;*/
+	border-color: #cccccc;
+	color: #cccccc;
+
+}
+
+header a, text a, nav a{
+    text-decoration: none;
+    color: #ffaa00;
+}
+
+header a, text a{
+    display: block;
+    position: relative;
+}
+
+h1{
+	/*font-family: "Oswald", serif;*/
+	font-family: "Monterey";
+	font-size: 72px;
+    /*font-weight: bold;
+    text-decoration: none;*/
+	color: #ffaa00;
+}
+
+h2{
+	font-weight: bold;
+	font-family: "Monterey", serif;
+	font-size: 36px;
+	color: #ffaa00;
+}
+h3{
+	border-top: 3px solid #a993ff;
+	border-bottom: 3px solid #a993ff;
+	font-family: "Lato-Regular", serif;
+	color: #ffaa00;
+}
+
+h4{
+	font-family: "Lato-Regular", serif;
+	color: #cccccc;
+}
+
+footer{
+	text-align: right;
+	font-family: "Lato-Regular", serif;
+	color: #a993ff;
+	margin-bottom:10px;
+	padding-top: 30px;
+}
+
+ul{
+	font-family: "Lato-Regular", serif;
+	margin:10px;
+	list-style-type: circle;
+	padding:20px;
+}
+
+th, td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+@font-face {
+	font-family: "Calligraphy";
+	src: url('fonts/CalligraphyFLF.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: "Monterey";
+	src: url('fonts/MontereyFLF.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: "Miracle";
+	src: url('fonts/Miracle.otf') format('otf');
+}
+
+@font-face {
+	font-family: "Lato-Regular";
+	src: url('fonts/Lato-Regular.ttf') format('truetype');
+}

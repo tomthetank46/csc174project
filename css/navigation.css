@@ -1,7 +1,7 @@
 nav ul {
 	list-style-type: none;
 	display: inline;
-	font-family:"Courier New",Monospace;
+	font-family:"Lato-Regular";
 	display: flex;
 	justify-content: space-around;
 }
@@ -13,10 +13,11 @@ nav li {
 }
 
 nav a {
-	color: black;
+	color: #a993ff;
 	display: block;
 	text-align: center;
 	text-decoration: none;
+	background-color: none;
 }
 
 nav a:visited{
@@ -24,13 +25,18 @@ nav a:visited{
 }
 
 nav a:hover {
-	color: grey;
-	font-size:120%;
+	color: #ffaa00;
+	/*font-size:120%;*/
 	text-decoration: underline;
 }
 
 .is-current {
 	color: black;
 	text-shadow: 1px 1px 1px grey;
-	background-color: #97cfcc;
+	background-color: #a993ff;
+}
+
+@font-face {
+	font-family: "Lato-Regular";
+	src: url('fonts/Lato-Regular.ttf') format('truetype');
 }
